@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const bot = new Discord.Client();
 var query = require('samp-query')
-const token = 'TOKEN';  // DiscordBot Token
+const token = 'TOKEN';  // ODY5MTI2NTczODY4MDc3MDY2.YP5rMg.XTvZQ9PK6JdJQjnAP1zY7k1Dqt0
 const PREFIX = '*'; // Prefix stavite po zelji
 var options = {
     host: '217.79.189.195', // Vas IP npr. Arizona 
